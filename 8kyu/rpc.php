@@ -1,5 +1,5 @@
 <?php
-// Reversed string
+// Rock Paper Scissors 
 
 function rpc($p1, $p2)
 {
