@@ -3,7 +3,6 @@
 
 function remove_exclamation_marks($string)
 {
-    $mark = '!';
-    return str_replace($mark, '', $string);
+    return str_replace('!', '', $string);
 }
 echo (remove_exclamation_marks('Hello World!')); // Hello World
