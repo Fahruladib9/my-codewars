@@ -13,4 +13,4 @@ function rpc($p1, $p2)
     }
 }
 
-echo rpc("rock", "scissors"); // Player 1 won!
+echo rpc("rock", "scissors"); // Player 1 won! 
